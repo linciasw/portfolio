@@ -6,7 +6,8 @@ layout: default
 
 Software Engineering · Python · Data · Computer Science · AI
 
-I'm interested in building useful things with technology.
+Hi, I'm Lincia.
+I enjoy using technology to build practical things.
 
 Currently learning Python and computer science more deeply, while exploring data, artificial intelligence, automation, and practical software development.
 
@@ -16,7 +17,7 @@ I like understanding how things work, building small applications, and going dow
 
 ## whoami
 
-I'm an Information Systems graduate currently moving deeper into software development and computer science.
+I'm an Information Systems/Information Technology graduate currently moving deeper into software development and computer science.
 
 I'm particularly interested in:
 
@@ -45,13 +46,11 @@ The goal is to make it easier to evaluate savings and investment options based o
 
 ---
 
-### Bank Statement Analyzer
+### Loan Installment Calculator
 
-A practical application for turning bank statements into useful financial insights.
+A simple Python tool for calculating estimated monthly loan payments based on loan amount, interest rate, and repayment period.
 
-Designed to analyze transactions, categorize spending, identify patterns, and provide a clearer picture of personal or small-business finances.
-
-**Python · Pandas · Streamlit**
+**Basic Python**
 
 [View project →](#)
 
@@ -66,18 +65,6 @@ The project focuses on functions, loops, conditionals, exception handling, data 
 **Python**
 
 [View project →](#)
-
----
-
-### CS50
-
-A collection of notes, exercises, and projects created while working through Harvard's CS50.
-
-Topics include programming fundamentals, algorithms, data structures, memory, and software development.
-
-**C · Python · Computer Science**
-
-[View repository →](#)
 
 ---
 
