@@ -11,20 +11,19 @@ Software Engineering · Python · Data · Computer Science · AI
 Hi, I'm Lincia.
 I enjoy using technology to build practical things.
 
-Currently learning Python and computer science more deeply, while exploring data, artificial intelligence, automation, and practical software development.
+I'm an Information Systems/Information Technology graduate currently learning Python and computer science more deeply, while exploring data, artificial intelligence, automation, and practical software development.
 
 I like understanding how things work, the thrill of creation, the frustrating excitement of problem-solving and going down the occasional technical rabbit hole.
-
-I'm an Information Systems/Information Technology graduate currently moving deeper into software development and computer science.
 
 I'm particularly interested in:
 
 - Python
+- Software development
 - Data & analytics
 - Artificial intelligence
 - Automation
-- Software development
 - Financial technology
+- Quant Programming
 
 I'm currently pursuing an **MSc. Computer Science with an AI specialization**.
 
@@ -40,7 +39,7 @@ The goal is to make it easier to evaluate savings and investment options based o
 
 **Python · Data Analysis · Financial Research**
 
-[View project →](#)
+[View project →](https://github.com/linciasw/python-applications/tree/main/%23%20practice%20applications/tt-finance-index)
 
 ---
 
@@ -50,7 +49,7 @@ A simple Python tool for calculating estimated monthly loan payments based on lo
 
 **Basic Python**
 
-[View project →](#)
+[View project →](https://github.com/linciasw/python-applications/tree/main/%23%20practice%20applications/loan-installment-calc)
 
 ---
 
@@ -62,7 +61,7 @@ The project focuses on functions, loops, conditionals, exception handling, data 
 
 **Python**
 
-[View project →](#)
+[View project →](https://github.com/linciasw/python-applications/tree/main/%23%20practice%20applications/vacation-expense)
 
 ---
 
@@ -87,25 +86,22 @@ Topics include:
 ## now
 
 **learning**  
-Python · Algorithms · Data Structures · AI
+[Harvard CS50 Introduction to Programming with Python](https://cs50.harvard.edu/python/)
 
 **building**  
 Practical Python applications
 
 **studying**  
-MSc Computer Science
-
-**exploring**  
-Machine Learning · Data · Systems
+MSc Computer Science, with a specialization in Artificial Intelligence
 
 **reading**  
-Technology · Business · Philosophy
+Shoe Dog by Phil Knight
 
 ---
 
 ## elsewhere
 
-[GitHub](https://github.com/linciasw) · [LinkedIn](#) · [Blog](#)
+[GitHub](https://github.com/linciasw) · [LinkedIn](https://www.linkedin.com/in/lincia-walters-b7b97478/) · [Blog](#)
 
 ---
 
