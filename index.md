@@ -4,6 +4,8 @@ layout: default
 
 # Lincia Walters
 
+## whoami
+
 Software Engineering · Python · Data · Computer Science · AI
 
 Hi, I'm Lincia.
@@ -11,11 +13,7 @@ I enjoy using technology to build practical things.
 
 Currently learning Python and computer science more deeply, while exploring data, artificial intelligence, automation, and practical software development.
 
-I like understanding how things work, building small applications, and going down the occasional technical rabbit hole.
-
----
-
-## whoami
+I like understanding how things work, the thrill of creation, the frustrating excitement of problem-solving and going down the occasional technical rabbit hole.
 
 I'm an Information Systems/Information Technology graduate currently moving deeper into software development and computer science.
 
