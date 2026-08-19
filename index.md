@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-
-# Lincia Walters
-
 ## whoami
 
 Software Engineering · Python · Data · Computer Science · AI
