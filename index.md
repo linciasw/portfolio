@@ -11,7 +11,7 @@ Software Engineering · Python · Data · Computer Science · AI
 Hi, I'm Lincia.
 I enjoy using technology to build practical things.
 
-I'm an Information Systems/Information Technology graduate currently learning Python and computer science more deeply, while exploring data, artificial intelligence, automation, and practical software development.
+I'm an Information Systems Management/Information Technology graduate currently learning Python and computer science more deeply, while exploring data, artificial intelligence, automation, and practical software development.
 
 I like understanding how things work, the thrill of creation, the frustrating excitement of problem-solving and going down the occasional technical rabbit hole.
 
