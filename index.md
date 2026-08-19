@@ -96,10 +96,4 @@ Shoe Dog by Phil Knight
 
 ---
 
-## elsewhere
-
-[GitHub](https://github.com/linciasw) · [LinkedIn](https://www.linkedin.com/in/lincia-walters-b7b97478/) · [Blog](#)
-
----
-
 *Always learning. Always building.*
